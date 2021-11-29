@@ -22,7 +22,7 @@ echo "4"
 echo "3"
 echo "2"
 echo "1"
-echo "click! picture taken!"
+echo "Click! Picture taken!"
 
 #this code will eventually take the picture and pass it to the database and actual facial recognition software
 #ASKS DATABASE TO SEE IF THERE IS A MATCH
