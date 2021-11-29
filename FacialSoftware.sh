@@ -11,8 +11,18 @@ sleep 3
 
 # Prints instructions and takes picture
 echo "Please look at the camera for 10 seconds"
-sleep 5
+echo "10"
+echo "9"
+echo "8"
+echo "7"
+echo "6"
+echo "5"
 raspistill -o face.jpg
+echo "4"
+echo "3"
+echo "2"
+echo "1"
+echo "click! picture taken!"
 
 #this code will eventually take the picture and pass it to the database and actual facial recognition software
 #ASKS DATABASE TO SEE IF THERE IS A MATCH
