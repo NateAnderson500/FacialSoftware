@@ -3,7 +3,7 @@
 
 # Facial software for the Facial Recognition Complementor
 # Nate Anderson
-# Version Beta 0.5
+# Version Beta 0.7
 
 # Prints welcome message
 echo "Welcome to the Anderson Complemmentor (Patent Pending)"
@@ -34,6 +34,12 @@ echo "1"
 sleep 1
 echo "Click! Picture taken!"
 
+# Runs the facial recognition code
 python app.py face.jpg
 
+# Runs the complementor code
+javac Main.java
+java Main
+
+echo ""
 echo "Thank you for useing the Facial Recognition Complementor! Have an amazing day!! :)"
