@@ -4,7 +4,7 @@ import java.util.Random;
  * A program that generate complements for the Facial Software project
  *
  * Author: Nate Anderson
- * Version: 0.6
+ * Version: 1.0
  */
 
 public class Main {
