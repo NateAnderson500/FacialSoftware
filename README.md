@@ -8,9 +8,9 @@ Things you will need:
  1. Raspberry Pi 3b, With Internet connection)
  2. A Python Virtual Environment with OpenCV
  3. The three programs included in this repository 
-    A. app.py (Facial Recognition) 
-    B. Main.java (Random Compliments Generator) 
-    C. FacialSoftware.sh (Shell script that actually does the work)
+    1. app.py (Facial Recognition) 
+    2. Main.java (Random Compliments Generator) 
+    3. FacialSoftware.sh (Shell script that actually does the work)
  4. A "official" Raspberry Pi camera
  5. Nate Anderson standing by to frantically fix something if it breaks so that he might actually be able to get a job someday
 
