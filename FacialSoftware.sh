@@ -37,6 +37,8 @@ echo "Click! Picture taken!"
 # Runs the facial recognition code
 python app.py face.jpg
 
+echo ""
+
 # Runs the complementor code
 javac Main.java
 java Main
