@@ -21,7 +21,7 @@ public class Main {
         if (select1 >= 10 && select1 <= 20) {
             System.out.println("You are amazing!");
         } else if (select1 >= 21 && select1 <= 30) {
-            System.out.println("You are the most pretty person in the room!");
+            System.out.println("You are the best person in the room!");
         } else if (select1 >= 31 && select1 <= 40) {
             System.out.println("You are hilarious!!");
         } else if (select1 >= 41 && select1 <= 50) {
