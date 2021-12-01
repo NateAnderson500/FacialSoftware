@@ -2,4 +2,4 @@
 
 by Nate Anderson
 
-This repository hold all nessisary programs for the Facial Software project.
+HOW TO INSTALL AND USE:
